@@ -18,7 +18,7 @@ Golang backend engineer/cloud architect, 9 years of experience, passionate about
 Use rules to crawl specified website content. Can be concurrent, use agents, specify rate, multiple output methods. Can run in a distributed manner. [Project link](https://github.com/dannyxweb3/pholcusrules)
 
 ### 🍽 Navigation based on webpack-go
-Supports crawling the target website and dynamically updating the navigation content. [Project address](https://github.com/dannyxweb3/webpack-go)
+Supports crawling the target website and dynamically updating the navigation content. [Project link](https://github.com/dannyxweb3/webpack-go)
 
 ### 💻 CHAOS Remote Management
 CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems. An improved version based on CHAOS. [Project link](https://github.com/dannyxweb3/CHAOS)
