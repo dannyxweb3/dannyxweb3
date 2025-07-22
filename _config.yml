@@ -1,6 +1,6 @@
 title: Danny Xu's Blog
 description: Golang backend engineer/cloud architect, 10 years of experience, passionate about high concurrency, microservices and cloud native architecture.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 
