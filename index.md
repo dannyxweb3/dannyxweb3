@@ -10,7 +10,7 @@ Golang backend engineer/cloud architect, 9 years of experience, passionate about
 📍 Perth / Remote | ✉️ [Email Me](mailto:Dannyxuweb3@gmail.com) | 🌐 [GitHub](https://github.com/dannyxweb3)
 
 ## 🧾 My resume
-👉 [Click to view Markdown resume](./CV.zh.md) 
+👉 [Click to view Markdown resume](./CV.en.s.md) 
 
 ## 🔧 Project display
 
