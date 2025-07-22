@@ -10,7 +10,7 @@ Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服
 📍 Perth / Remote | ✉️ [Email Me](mailto:Dannyxuweb3@gmail.com) | 🌐 [GitHub](https://github.com/dannyxweb3)
 
 ## 🧾 我的简历
-👉 [点击查看 Markdown 简历](./CV.zh.md) [English Resume](./CV.md)
+👉 [点击查看 Markdown 简历](./CV.zh.md) [English Resume](./CV.en.s.md)
 
 ## 🔧 项目展示
 
