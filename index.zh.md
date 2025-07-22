@@ -28,4 +28,4 @@ CHAOS is a free and open-source Remote Administration Tool that allow generate b
 
 
 ## 📄 其他信息
-- [flexdrive](https://github.com/uxff/flexdrive)
+- [flexdrive](https://github.com/uxff/flexdrive) 一个分布式云盘系统。后端采用golang的gin框架，前端使用Bootstrap，集群通信使用gRPC协议。
