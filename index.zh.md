@@ -20,7 +20,7 @@ Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服
 ### 🍽 基于webpack-go的导航
 支持爬取目标网站并动态更新导航内容。[项目地址](https://github.com/dannyxweb3/webpack-go)
 
-### 基于Solidity 的存款合约
+### 💱基于Solidity 的存款合约
 使用solidity实现的短期存款合约。支持动态利息，提前赎回。[项目地址](https://github.com/dannyxweb3/depositproduct)
 
 ### 💻 CHAOS 远程管理
