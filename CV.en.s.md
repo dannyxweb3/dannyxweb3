@@ -1,5 +1,5 @@
 # Danny Xu's Resume
-**Senior Golang Engineer / Backend Developer**
+**Senior Golang Engineer | Backend Developer | Blockchain Developer**
 
 Perth, Australia, Remote | dannyxuweb3@gmail.com 
 
