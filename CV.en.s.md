@@ -8,6 +8,7 @@ Seasoned Software Engineer with 10+ years of experience specializing in building
 
 ## TECHNICAL SKILLS
 - **Languages:** Golang (6+ years), Python, JavaScript, PHP
+- **Web3 Skills:** Go-Ethereum, Solidity, Geth, Hardhat, Fountry
 - **Frameworks:** Gin, Gorilla, Gorm, Xorm, Kratos, Zap
 - **Protocols:** gRPC, Protobuf, WebSocket, HTTP/2, TCP/UDP
 - **Databases:** MySQL, Redis, MongoDB, Etcd, Memcache
@@ -18,6 +19,15 @@ Seasoned Software Engineer with 10+ years of experience specializing in building
 - **Concepts:** Microservices, Distributed Systems, Fault Tolerance, High Availability
 
 ## PROFESSIONAL EXPERIENCE
+
+### BLOCKCHAIN TRANSACTION DEVELOPER | Oct 2024 - Aug 2025  
+**BitStorage Ltd.**
+-  Developed an OTC trading system based on the Go language, with core functions including trade matching, fund custody, and wealth management products. 
+- Independently designed and implemented the order service, supporting trade listings, order matching, and fee settlement, ensuring stability under high concurrency. 
+- Wrote and deployed the escrow contract (Solidity), implementing logic for fund deposits and withdrawals, interest distribution, and commission collection, and interacting with the Go server. 
+- Build a local transaction ledger, responsible for synchronizing and reconciling on chain and off-chain transaction status, ensuring transaction data consistency and traceability. 
+- Participated in the implementation of a multi-level commission sharing system and wealth management product module, supporting automatic profit distribution and statistics. 
+- Completed contract testing, deployment, and on-chain interaction using tools such as Hardhat, Ethers.js, and Go-Ethereum. 
 
 ### Backend Software Engineer
 **Didi Infinite Technology Development Co. LTD** | Beijing, China | Dec 2020 - Feb 2023
