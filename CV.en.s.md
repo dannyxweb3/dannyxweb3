@@ -20,8 +20,8 @@ Seasoned Software Engineer with 10+ years of experience specializing in building
 
 ## PROFESSIONAL EXPERIENCE
 
-### BLOCKCHAIN TRANSACTION DEVELOPER | Oct 2024 - Aug 2025  
-**BitStorage Ltd.**
+### BLOCKCHAIN TRANSACTION DEVELOPER
+**BitStorage Ltd.** | Oct 2024 - Aug 2025  
 -  Developed an **OTC trading system** based on the Go language, with core functions including trade matching, fund custody, and wealth management products. 
 - Independently designed and implemented the order service, supporting trade listings, order matching, and fee settlement, ensuring stability under high concurrency. 
 - Wrote and deployed the escrow **contract (Solidity)**, implementing logic for fund deposits and withdrawals, interest distribution, and commission collection, and interacting with the Go server. 
