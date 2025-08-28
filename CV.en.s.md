@@ -80,5 +80,5 @@ Core developer for large-scale distributed storage systems deployed at national 
 **Technologies used:** C/C++, PHP, Python, Java, Shell, MySQL
 
 ## EDUCATION
-- **Curtin University** | Master of Computing (Postgraduate student)
+- **Curtin University** | Master of Computing (Computer Science Major)
 - **Beijing Institute of Technology** | Bachelor's Degree in Computer Science
