@@ -8,7 +8,15 @@ Seasoned Software Engineer with 10+ years of experience specializing in building
 
 ## TECHNICAL SKILLS
 - **Languages:** Golang (6+ years), Python, JavaScript, PHP
-- **Web3 Skills:** Go-Ethereum, Solidity, Geth, Hardhat, Fountry
+- **Blockchain and Web3**:
+  - **Smart Contract Development and Auditing**: Solidity, Hardhat, Foundry, OpenZeppelin
+  - **Node and Execution Layer**: Geth, Nethermind, Reth (understand), Erigon (understand)
+  - **Consensus and Data Layer**: Ethereum PoS, Rollups (Optimistic/ZK), Layer 2 Infrastructure Principles
+  - **MEV Ecosystem**: Flashbots, Proposer-Builder Separation (PBS), Blockchain Construction and Auction Mechanism
+  - **Wallets and Signatures**: Web3.js, Ethers.js, Private Key Management, EIP-712 Signatures
+  - **Data Indexing and Querying**: The Graph, SubQuery, JSON-RPC, Ethereum Event Monitoring
+  - **Decentralized Storage and Messaging**: IPFS, Filecoin, Libp2p, Whisper (understand)
+  - **Cryptography and Security**: Merkle Tree, Zero-Knowledge Proofs (ZK-SNARKs) Basic concepts), multi-party computing (MPC), TEE (understanding)
 - **Frameworks:** Gin, Gorilla, Gorm, Xorm, Kratos, Zap
 - **Protocols:** gRPC, Protobuf, WebSocket, HTTP/2, TCP/UDP
 - **Databases:** MySQL, Redis, MongoDB, Etcd, Memcache
