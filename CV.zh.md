@@ -20,14 +20,14 @@
 
 - **编程语言**：Golang、Python、PHP、C/C++、TypeScript、 Solidity
 - **区块链与 Web3**：
--- **智能合约开发与审计**：Solidity、Hardhat、Foundry、OpenZeppelin
--- **节点与执行层**：Geth、Nethermind、Reth（了解）、Erigon（了解）
--- **共识与数据层**：以太坊 PoS、Rollups（Optimistic / ZK）、Layer2 基础设施原理
--- **MEV 生态**：Flashbots、PBS（Proposer-Builder Separation）、区块构建与拍卖机制
--- **钱包与签名**：Web3.js、Ethers.js、私钥管理、EIP-712 签名
--- **数据索引与查询**：The Graph、SubQuery、JSON-RPC、以太坊事件监听
--- **去中心化存储与消息**：IPFS、Filecoin、Libp2p、Whisper（了解）
--- **密码学与安全**：Merkle Tree、零知识证明（ZK-SNARKs 基本概念）、多方计算（MPC）、TEE（了解）
+ - **智能合约开发与审计**：Solidity、Hardhat、Foundry、OpenZeppelin
+ - **节点与执行层**：Geth、Nethermind、Reth（了解）、Erigon（了解）
+ - **共识与数据层**：以太坊 PoS、Rollups（Optimistic / ZK）、Layer2 基础设施原理
+ - **MEV 生态**：Flashbots、PBS（Proposer-Builder Separation）、区块构建与拍卖机制
+ - **钱包与签名**：Web3.js、Ethers.js、私钥管理、EIP-712 签名
+ - **数据索引与查询**：The Graph、SubQuery、JSON-RPC、以太坊事件监听
+ - **去中心化存储与消息**：IPFS、Filecoin、Libp2p、Whisper（了解）
+ - **密码学与安全**：Merkle Tree、零知识证明（ZK-SNARKs 基本概念）、多方计算（MPC）、TEE（了解）
 - **系统架构**：微服务、分布式锁、幂等性、异步解耦、CQRS、服务拆分设计、缓存一致性  
 - **云原生与容器化**：Kubernetes（HPA、Operator、CRD）、Helm、Istio、Envoy、Service Mesh、Prometheus、Grafana、OpenTelemetry  
 - **数据库与存储**：MySQL（ACID、索引、锁机制）、Redis、MongoDB、Etcd、ElasticSearch、TiDB（了解）  
